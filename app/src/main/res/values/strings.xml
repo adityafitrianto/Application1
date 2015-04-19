@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Application1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tombol_terjemah">Terjemahkan</string>
+    <string name="apa_kabar">Sedang apa Adit?</string>
+</resources>
